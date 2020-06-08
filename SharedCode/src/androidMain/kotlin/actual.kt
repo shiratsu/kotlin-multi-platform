@@ -1,4 +1,4 @@
-package com.jetbrains.handson.mpp.mobile
+package com.jetbrains.handson.app.mobile
 
 actual fun platformName(): String {
     return "Android"
